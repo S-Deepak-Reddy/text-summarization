@@ -1,0 +1,9 @@
+nltk
+scikit-learn
+rake-nltk
+yake
+networkx
+sentence-transformers
+rouge-score
+rapidfuzz
+spacy
